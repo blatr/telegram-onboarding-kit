@@ -11,7 +11,7 @@ export default defineConfig({
           media: {
             type: 'sticker',
             src: import('./assets/stickers/duck_hello.tgs'),
-            size: 250,
+            size: 251,
           },
           shape: 'square',
           pagination: 'count',
